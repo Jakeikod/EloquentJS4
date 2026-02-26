@@ -6,7 +6,6 @@ function chessBoard(sizeOfBoard){ // sizeOfBoard is a number that will be used a
         else output += " ";
     }
     console.log(output)
-    console.log(output.length)
 }
 
 chessBoard(4);
